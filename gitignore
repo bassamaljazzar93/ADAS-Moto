@@ -1,0 +1,17 @@
+# Build output
+build/
+.pio/
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Credentials (NEVER commit these)
+credentials.h
+secrets.h
